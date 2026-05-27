@@ -3,7 +3,7 @@ Project Overview
 
 This project demonstrates a comprehensive hands-on exploration of Microsoft Azure administration using the Azure Portal (GUI). It covers key identity and access management (IAM) concepts by simulating real-world administrative scenarios across multiple permission levels — from Global Administrator to standard users.Key 
 
-Activities Performed:
+Activities Performed
 
 Configured and managed external user (guest) access with controlled permissions
 
